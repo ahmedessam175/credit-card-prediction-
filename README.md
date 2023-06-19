@@ -1,1 +1,2 @@
 # credit-card-prediction-
+The Credit Card Prediction project is a machine learning-based project aimed at predicting future credit card payments of cardholders. This is done by analyzing sensitive data related to cardholders, such as payment history, spending, and balance information. The project aims to improve financial decision-making processes and reduce credit-related risks. The results of this project can be used to improve credit approval decisions, identify potential risks, and enhance financial risk management.
